@@ -2,5 +2,6 @@ Capitulo 1 : Introduccion a git
 Capitulo 2 : Flujo de trabajo basico
 Capitulo 3 : Gestion de ramas
 Capitulo 4: Repositorios remotos
+Capitulo 5 : Repositorio GitHUB
+Capitulo 6 : fork GitHUB
 ok 
-
